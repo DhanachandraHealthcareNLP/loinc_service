@@ -1,0 +1,120 @@
+Domain,Semantic_Tag,Mapped_UMLS_Tag,TUI,UMLS_Class,NLP
+body structure,body structure,body space or junction,T030,anatomy,anatomical_structure
+body structure,body structure,body location or region,T029,anatomy,anatomical_structure
+body structure,cell,cell,T025,anatomy,anatomical_structure
+body structure,cell structure,cell component,T026,anatomy,anatomical_structure
+body structure,morphologic abnormality,anatomical abnormality,T190,disorders,problem
+body structure,morphologic abnormality,neoplastic process,T191,disorders,problem
+clinical finding,disorder,acquired abnormality,T020,disorders,problem
+clinical finding,disorder,congenital abnormality,T019,disorders,problem
+clinical finding,disorder,disease or syndrome,T047,disorders,problem
+clinical finding,disorder,finding,T033,disorders,finding
+clinical finding,disorder,injury or poisoning,T037,disorders,problem
+clinical finding,disorder,mental or behavioral dysfunction,T048,disorders,problem
+clinical finding,disorder,pathologic function,T046,disorders,problem
+clinical finding,finding,finding,T033,disorders,finding
+environment or geographical location,environment,geographic area,T083,geographic areas,other
+environment or geographical location,environment,health care related organization,T093,organizations,other
+environment or geographical location,environment,manufactured object,T073,objects,medical_device
+environment or geographical location,environment,phenomenon or process,T067,phenomena,finding
+environment or geographical location,environment,spatial concept,T082,concepts & ideas,modifier
+environment or geographical location,environment / location,geographic area,T083,geographic areas,other
+environment or geographical location,environment / location,spatial concept,T082,concepts & ideas,modifier
+environment or geographical location,geographic location,geographic area,T083,geographic areas,other
+event,event,event,T051,activities & behaviors,other
+linkage concept,attribute,idea or concept,T078,concepts & ideas,other
+linkage concept,link assertion,idea or concept,T078,concepts & ideas,other
+linkage concept,linkage concept,functional concept,T169,concepts & ideas,other
+linkage concept,linkage concept,intellectual product,T170,concepts & ideas,other
+linkage concept,linkage concept,qualitative concept,T080,concepts & ideas,other
+linkage concept,linkage concept,quantitative concept,T081,concepts & ideas,other
+linkage concept,linkage concept,spatial concept,T082,concepts & ideas,modifier
+linkage concept,linkage concept,temporal concept,T079,concepts & ideas,other
+observable entity,observable entity,clinical attribute,T201,physiology,finding
+observable entity,observable entity,finding,T033,disorders,finding
+organism,organism,organism,T001,living beings,other
+pharmaceutical product,product,chemical,T103,chemicals & drugs,other
+pharmaceutical product,product,clinical drug,T200,chemicals & drugs,medicine
+physical force,physical force,natural phenomenon or process,T070,phenomena,finding
+physical force,physical force,phenomenon or process,T067,phenomena,finding
+physical object,physical object,biomedical or dental material,T122,chemicals & drugs,other
+physical object,physical object,manufactured objects,T073,objects,medical_device
+physical object,product,manufactured objects,T073,objects,medical_device
+procedure,procedure,diagnostic procedure,T060,procedures,procedure
+procedure,procedure,laboratory procedure,T059,procedures,procedure
+procedure,procedure,therapeutic or preventive procedure,T061,procedures,procedure
+procedure,regime/therapy,therapeutic or preventive procedure,T061,procedures,procedure
+qualifier value,qualifier value,intellectual product,T170,concepts & ideas,other
+qualifier value,qualifier value,idea or concept,T078,concepts & ideas,other
+record artifact,record artifact,intellectual product,T170,concepts & ideas,other
+situation with explicit content,situation with explicit content,finding,T033,disorders,finding
+social context,ethnic group,population group,T098,living beings,other
+social context,life style,behavior,T053,activities & behaviors,finding
+social context,occupation,occupation or discipline,T090,occupations,other
+social context,occupation,professional or occupational group,T097,living beings,other
+social context,person,age group,T100,living beings,other
+social context,person,family group,T099,living beings,other
+social context,person,patient or disabled group,T101,living beings,other
+social context,person,population group,T098,living beings,other
+social context,person,professional or occupational group,T097,living beings,other
+social context,racial group,population group,T098,living beings,other
+social context,religion/philosophy,finding,T033,disorders,finding
+social context,religion/philosophy,idea or concept,T078,concepts & ideas,other
+social context,religion/philosophy,population group,T098,living beings,other
+social context,social concept,idea or concept,T078,concepts & ideas,other
+special concept,inactive concept,functional concept,T169,concepts & ideas,other
+special concept,namespace concept,functional concept,T169,concepts & ideas,other
+special concept,navigational concept,functional concept,T169,concepts & ideas,other
+special concept,special concept,functional concept,T169,concepts & ideas,other
+specimen,specimen,"body part, organ, or organ component",T023,anatomy,anatomical_structure
+specimen,specimen,body substance,T031,anatomy,other
+specimen,specimen,substance,T167,objects,medicine
+specimen,specimen,tissue,T024,anatomy,anatomical_structure
+staging and scales,assessment scale,classification,T185,concepts & ideas,other
+staging and scales,assessment scale,intellectual product,T170,concepts & ideas,other
+staging and scales,staging scale,classification,T185,concepts & ideas,other
+staging and scales,staging scale,intellectual product,T170,concepts & ideas,other
+staging and scales,tumor staging,classification,T185,concepts & ideas,other
+staging and scales,tumor staging,intellectual product,T170,concepts & ideas,other
+substance,substance,substance,T167,objects,medicine
+,,,,,
+qualifier value,qualifier value,spatial concept,T082,concepts & ideas,modifier
+clinical finding,morphologic abnormality,,T046,,problem
+clinical finding,finding,,T033,,problem
+observable entity,observable entity,,,,laboratory_data
+Pharmaceutical product ,clinical drug,clinical drug,T200,,medicine
+,medicinal product,Organic Chemical,T109,,medicine
+,medicinal product,Pharmacologic Substance,T121,,medicine
+,medicinal product,"Indicator, Reagent, or Diagnostic Aid",T130,,other
+,medicinal product,Biologically Active Substance,T123,,other
+,medicinal product,"Amino Acid, Peptide, or Protein",T116,,other
+,medicinal product,Antibiotic,T195,,medicine
+,medicinal product form,Organic Chemical,T109,,medicine
+,medicinal product form,Pharmacologic Substance,T121,,medicine
+,medicinal product form,"Indicator, Reagent, or Diagnostic Aid",T130,,other
+,medicinal product form,Biologically Active Substance,T123,,other
+,medicinal product form,"Amino Acid, Peptide, or Protein",T116,,other
+,medicinal product form,Antibiotic,T195,,medicine
+,physical object,Medical Device,T074,,medical_device
+,physical object,Human-caused Phenomenon or Process,T068,,finding
+,physical object,Manufactured Object,T073,,medical_device
+Qualifier value,administration method,Functional Concept,T169,,other
+,administration method,Intellectual Product,T170,,other
+,basic dose form,Biomedical or Dental Material,T122,,other
+,disposition,Qualitative Concept,T080,,other
+,dose form,Biomedical or Dental Material,T122,,other
+,intended site,Finding,T033,,finding
+,intended site,Spatial Concept,T082,,modifier
+,intended site,Functional Concept,T169,,other
+,product name,Intellectual Product,T170,,other
+,release characteristic,Qualitative Concept,T080,,other
+,release characteristic,Intellectual Product,T170,,other
+,role,Qualitative Concept,T080,,other
+,role,Intellectual Product,T170,,other
+,state of matter,Chemical Viewed Structurally,T104,,other
+,state of matter,Biomedical or Dental Material,T122,,other
+,state of matter,Qualitative Concept,T080,,other
+,transformation,Finding,T033,,finding
+,transformation,Functional Concept,T169,,other
+,supplier,Professional or Occupational Group,T097,,other
+,unit of presentation,Quantitative Concept,T081,,other

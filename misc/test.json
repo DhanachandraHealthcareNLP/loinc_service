@@ -1,0 +1,422 @@
+{
+    "codes": [
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 71,
+                        "text": "Congestive heart failure"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "42343007"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 71,
+                        "text": "Congestive heart failure"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "42343007"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 99,
+                        "text": "Hypertension"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "38341003"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 99,
+                        "text": "Hypertension"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "38341003"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 113,
+                        "text": "malignant"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "21594007"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "HISTORY",
+                    "textSpan": {
+                        "beginOffset": 137,
+                        "text": "seizures"
+                    }
+                }
+            ],
+            "status": "HISTORY",
+            "value": "91175000"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "HISTORY",
+                    "textSpan": {
+                        "beginOffset": 137,
+                        "text": "seizures"
+                    }
+                }
+            ],
+            "status": "HISTORY",
+            "value": "91175000"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 149,
+                        "text": "Diabetic neuropathy"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "230572002"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 149,
+                        "text": "Diabetic neuropathy"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "230572002"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 172,
+                        "text": "Anxiety"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "48694002"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 172,
+                        "text": "Anxiety"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "48694002"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 183,
+                        "text": "Obstructive sleep apnea"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "78275009"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 183,
+                        "text": "Obstructive sleep apnea"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "78275009"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 331,
+                        "text": "Dilantin"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "387220006"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 99,
+                        "text": "Hypertension"
+                    }
+                },
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 113,
+                        "text": "malignant"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "70272006"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 99,
+                        "text": "Hypertension"
+                    }
+                },
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 113,
+                        "text": "malignant"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "70272006"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 275,
+                        "text": "Xanax"
+                    }
+                },
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 281,
+                        "text": "500"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "732775002"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 275,
+                        "text": "Xanax"
+                    }
+                },
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 285,
+                        "text": "mg"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "258684004"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 275,
+                        "text": "Xanax"
+                    }
+                },
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 288,
+                        "text": "two"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "19338005"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 331,
+                        "text": "Dilantin"
+                    }
+                },
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 355,
+                        "text": "q.d"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "387220006"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 299,
+                        "text": "Coreg"
+                    }
+                },
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 310,
+                        "text": "mg"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "258684004"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 299,
+                        "text": "Coreg"
+                    }
+                },
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 313,
+                        "text": "oral"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "260548002"
+        },
+        {
+            "codingSystem": "SNOMED",
+            "evidence": [
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 299,
+                        "text": "Coreg"
+                    }
+                },
+                {
+                    "certainty": "POSITIVE",
+                    "status": "CURRENT",
+                    "textSpan": {
+                        "beginOffset": 318,
+                        "text": "tablet"
+                    }
+                }
+            ],
+            "status": "CURRENT",
+            "value": "385055001"
+        }
+    ],
+    "status": "COMPLETED"
+}
